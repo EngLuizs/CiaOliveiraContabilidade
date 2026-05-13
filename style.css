@@ -1,4 +1,8 @@
-
+  @font-face {
+    font-family: 'Geometos';
+    src: url('./assets/fonts/Geometos.ttf') format('truetype');
+  }
+  
   :root {
     --bg: #0d1a2e;
     --surface: #102040;
@@ -69,7 +73,7 @@
   }
 
   .brand-name {
-    font-family: 'DM Sans', sans-serif;
+    font-family: 'Geometos', sans-serif;
     font-size: 28px;
     font-weight: 500;
     color: var(--silver-light);
@@ -80,6 +84,7 @@
   }
 
   .brand-tagline {
+    font-family: 'Geometos', sans-serif;
     font-size: 11px;
     letter-spacing: 5px;
     text-transform: uppercase;
