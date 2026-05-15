@@ -1,10 +1,10 @@
 <div align="center">
 
-# CIAOliveira Contabilidade
+# CIAOLIVEIRA CONTABILIDADE
 
 ### Soluções contábeis modernas para empresas e pessoas físicas
 
-Site institucional desenvolvido com foco em:
+Site desenvolvido com foco em:
 contabilidade, atendimento digital e experiência moderna.
 
 <br>
